@@ -39,7 +39,7 @@
 [<img align="left" alt="java" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][website]
 [<img align="left" alt="bash" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" />][website]
 
-[website]: https://https://github.com/Ishan25j
+[website]: https://github.com/Ishan25j
 [twitter]: https://twitter.com/Ishan_Joshi_25
 [instagram]: https://instagram.com/ishan__joshii
 [linkedin]: https://linkedin.com/in/ishan-joshi-986030184
