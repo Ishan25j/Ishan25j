@@ -4,7 +4,7 @@
 
 ## I'm a Learner!!
 
-- 🔭 I'm a student currently in college 3rd year in Btech 
+- 🔭 I'm a student currently in 3rd year Btech in Information and Communication Technology (ICT) 💻
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other contributors
 - 🥅 2020 Goals: Contribute more to Open Source projects
@@ -17,7 +17,6 @@
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-<br />
 
 ### Languages and Tools:
 
@@ -38,6 +37,11 @@
 [<img align="left" alt="python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][website]
 [<img align="left" alt="java" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />][website]
 [<img align="left" alt="bash" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" />][website]
+
+<br />
+
+### Github Stats:
+<img src="https://github-readme-stats.vercel.app/api?username=Ishan25j&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 [website]: https://github.com/Ishan25j
 [twitter]: https://twitter.com/Ishan_Joshi_25
