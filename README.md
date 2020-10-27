@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=ishan25j.com&style=for-the-badge&url=https%3A%2F%2Fgithub.com%2Fishan25j)](https://github.com/ishan25j)
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=Ishan25j)
+<!--![visitors](https://visitor-badge.laobi.icu/badge?page_id=Ishan25j) -->
 [![GitHub followers](https://img.shields.io/github/followers/Ishan25j.svg?style=social&label=Follow)](https://github.com/Ishan25j?tab=followers)
 
 ## I'm a Learner!!
