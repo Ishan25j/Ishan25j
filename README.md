@@ -1,4 +1,4 @@
-### Hi there, I'm Ishan Joshi - aka [ishan25j][website] 👋
+### Hi there, I'm Ishan Joshi - a.k.a [ishan25j][website] 👋😎
 
 [![Website](https://img.shields.io/website?label=ishan25j.com&style=for-the-badge&url=https%3A%2F%2Fgithub.com%2Fishan25j)](https://github.com/ishan25j)
 
