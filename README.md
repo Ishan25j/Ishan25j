@@ -50,7 +50,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Ishan25j&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 ### Most Used Languages:
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishan25j&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515 alt="ishan25j" /></p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ishan25j&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
   
   
 [website]: https://github.com/Ishan25j
