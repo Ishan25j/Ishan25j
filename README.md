@@ -49,6 +49,10 @@
 ### Github Stats:
 <img src="https://github-readme-stats.vercel.app/api?username=Ishan25j&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
+### Most Used Languages:
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishan25j&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515 alt="ishan25j" /></p>
+  
+  
 [website]: https://github.com/Ishan25j
 [twitter]: https://twitter.com/
 [instagram]: https://instagram.com/ishan__joshii
