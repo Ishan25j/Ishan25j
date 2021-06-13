@@ -16,7 +16,7 @@
 <h3 align="center">Software Developer</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/ishan-joshi-986030184/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="lin_ovindu" height="30" width="40" /></a>  
-<a href="https://www.instagram.com/ishan__joshi/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174855.png" alt="insta_ovindu" height="30" width="40" /></a>
+<a href="https://www.instagram.com/ishan__joshii/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174855.png" alt="insta_ovindu" height="30" width="40" /></a>
 </p>
 </p>
 
