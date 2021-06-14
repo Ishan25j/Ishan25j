@@ -39,7 +39,7 @@
 ✔ Callme: ***He/His*** or ***TeamWorker*** 😊 <br>
 ✔ I love to learn **everything** 🥰<br>
 ✔ I’m looking to collaborate with any **Open - Source projects**<br>
-✔ Ask from me anything you want, If I am alive I will answer within seconds 😉<br>
+✔ Ask me anything you want, If I am alive I will answer within seconds 😉<br>
 ✔ Fun fact : *I Always try to learn something new and then sleep till it store in the brain* 😎<br><br><br><br>
  
 
