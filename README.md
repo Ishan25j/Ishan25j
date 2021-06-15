@@ -74,6 +74,7 @@
  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ishan25j&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=Ishan25j&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
+<br>
 <center>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ishan25j&count_private=true&theme=radical" alt="Jas-Script" />
 </center>
