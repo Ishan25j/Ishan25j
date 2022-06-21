@@ -12,11 +12,12 @@
   <img src="https://img.shields.io/badge/Lives-India-success" />
 </p>
 <hr>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Ishan Joshi </h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px">, I am Ishan Joshi </h1>
 <h3 align="center">Software Developer</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/ishan--joshi/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="lin_ovindu" height="30" width="40" /></a>  
-<a href="https://www.instagram.com/ishan__joshii/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174855.png" alt="insta_ovindu" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ishan--joshi/" target="blank"><img align="center" src="https://www.vhv.rs/file/max/9/98175_linkedin-transparent-png.png" alt="linkedIn" height="30" width="40" /></a>  
+<a href="https://www.instagram.com/ishan__joshii/" target="blank"><img align="center" src="https://www.manandvanbridport.co.uk/wp-content/uploads/2019/11/new-instagram-logo-png-transparent-800x799.png" alt="insta" height="30" width="40" /></a>
+<a href="https://ishanjoshi.dev" target="blank"><img align="center" src="https://pluspng.com/img-png/png-user-icon-circled-user-icon-2240.png" alt="my-site" height="30" width="40" /></a>
 </p>
 </p>
 
@@ -25,7 +26,7 @@
 <p align="center">
   <em>
     Hello, I am Ishan Joshi a <b>final year</b> undergraduate from <a href="http://www.aii.ac.in/aiie/"> <b>Adani Institute of Infrastructure Engineering</b>, India</a>. <br>
-    <b>a passionate self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Software Developer</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
+    <b>a passionate self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px" height="30px"> and a <b>Software Developer</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px" height="36px">&nbsp,<br>who is <b>obsessed</b>
     with <b>Development</b> and always looking forward for getting new skill
   </em>
   <br>
@@ -34,7 +35,7 @@
 <br><br>
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="30px">&nbsp;***About me ....***
 
 ✔ Callme: ***He/His*** or ***TeamWorker*** 😊 <br>
 ✔ I love to learn **everything** 🥰<br>
@@ -43,7 +44,7 @@
 ✔ Fun fact : *I Always try to learn something new and then sleep till it store in the brain* 😎<br><br><br><br>
  
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools...***
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="30px">&nbsp;***My working tools...***
 <p align="left">
   
 ![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff)
@@ -70,7 +71,7 @@
   
 <hr>
 <p align="center">
-<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
+<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" height="30px alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ishan25j&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=Ishan25j&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
@@ -81,7 +82,7 @@
 
 <hr>
 
-<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Waka Time:</b></i></p>
+<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" height="30px" alt="Git"/>&nbsp;<i><b>Waka Time:</b></i></p>
 
 <!--START_SECTION:waka-->
 ```text
@@ -93,7 +94,7 @@ No Activity tracked this Week
 <hr>
 
 
-<p align="center"><img src="https://media.giphy.com/media/Ishan25j/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
+<p align="center"><img src="https://media.giphy.com/media/Ishan25j/giphy.gif" width="30px" height="30px" />&nbsp;Git profile Trophies</p><br>
 <img src="https://github-profile-trophy.vercel.app/?username=Ishan25j&theme=juicyfresh&no-bg=true" />
 
 
