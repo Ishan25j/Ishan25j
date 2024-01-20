@@ -20,7 +20,7 @@
 
 <p align="center">
   <em>
-    Hello, I am Ishan Joshi a <b>final year</b> undergraduate from <a href="http://www.aii.ac.in/aiie/"> <b>Adani Institute of Infrastructure Engineering</b>, India</a>. <br>
+    Hello, I am Ishan Joshi a <b>Graduate Student</b> at <a href="http://northeastern.edu"> <b>Northeastern University</b>, USA</a>. <br>
     <b>a passionate self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px" height="30px"> and a <b>Software Developer</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px" height="36px">&nbsp,<br>who is <b>obsessed</b>
     with <b>Development</b> and always looking forward for getting new skill
   </em>
