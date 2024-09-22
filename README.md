@@ -4,7 +4,7 @@
  <p align="center">
 <img src="https://img.shields.io/badge/Age-23-blue" />
   <img src="https://img.shields.io/badge/Focus-Software%20Development-brightgreen" />
-  <img src="https://img.shields.io/badge/Lives-India-success" />
+<!--   <img src="https://img.shields.io/badge/Lives-India-success" /> -->
 </p>
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px">, I am Ishan Joshi </h1>
